@@ -1,0 +1,6 @@
+This page is Creating the dhoni information.
+adding the dhoni image using the <imag> tag of the document.
+and paragraph using the <p> tag of the document.
+
+ M.S. Dhoni (born July 7, 1981, Ranchi, Bihar [now Jharkhand] state, India) Indian cricketer whose rise to prominence in the early 21st century culminated in his
+captaincy of the Indian national team that won the one-day Cricket World Cup in 2011. Dhoni made his international debut in 2004.

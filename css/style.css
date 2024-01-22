@@ -1,0 +1,42 @@
+h1{
+background-color: green;
+width: 1000px;
+  border: 1px solid;
+  padding: 1px;
+  margin: 1px;
+}
+h2 {
+  background-color: lightgrey;
+  width: 150px;
+  border: 10px solid;
+  padding: 10px;
+  margin: 1px;
+  text-align: center;
+}
+div.a {
+  
+ width:100%;
+  overflow:auto;
+ 
+}
+div.a div {
+  width:33%;  
+  float:left;
+}
+div.b div {
+  width:33%;  
+  float:left;
+  
+}
+body{
+  background-color: lightblue;
+  width: 1000px;
+  padding: 100px;
+  margin: 50px;
+  border: 10px solid green;		
+  
+}
+a{
+ color: red;
+}
+
